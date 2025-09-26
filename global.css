@@ -1,0 +1,26 @@
+/* Reset */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.conteiner{
+    top: 50px;
+    left: 50px;
+    width: 400px;
+    height: 400px;
+    border: black;
+}
+
+.conteiner img{
+    width: 500px;
+    height: 500px
+}
+
+.div{
+    width: 100px;
+    height: 100px
+}
+
